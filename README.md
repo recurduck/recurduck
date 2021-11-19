@@ -5,7 +5,7 @@
 
 ## Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RecurDuck&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby&icon_color=fad000" lt="RecurDuck's GitHub Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recurduck&layout=compact&theme=github_dark" alt="RecurDuck's GitHub Must used lenguages">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RecurDuck&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby&icon_color=fad000" lt="RecurDuck's GitHub Stats">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recurduck&layout=compact&theme=github_dark" alt="RecurDuck's GitHub Must used lenguages">
 
 ## Programming Languages
 
