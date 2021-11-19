@@ -1,4 +1,4 @@
-# 👋 𝗛𝗲𝗹𝗹𝗼! Hi, Greco / recurduck / 小鸭子 
+# 👋 𝗛𝗲𝗹𝗹𝗼! I'm, Greco / recurduck / 小鸭子 
 - 👀 I’m interested in everything
 - 🌱 I’m currently Developing in JS, python,css/Sass, HTML5.
 - 💞️ I’m looking to collaborate on anything that I can help
